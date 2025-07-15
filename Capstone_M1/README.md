@@ -21,7 +21,7 @@ This project aims to create a simple and accessible inventory management tool us
 7. Command-Line Interface (CLI)
 
 
-**Installation**
+## **Installation**
 1. Download the repository  
   [Download here!](https://github.com/nrevanda/JCDS0808/tree/main/Capstone_M1)
 2. Ensure Python is installed  
