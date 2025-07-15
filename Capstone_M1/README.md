@@ -23,7 +23,7 @@ This project aims to create a simple and accessible inventory management tool us
 
 **Installation**
 1. Download the repository  
-  https://github.com/nrevanda/JCDS0808/tree/main/Capstone_M1
+  [Download here!](https://github.com/nrevanda/JCDS0808/tree/main/Capstone_M1)
 2. Ensure Python is installed  
   This project was built using Python 3.10 or later
 3. Install dependencies  
