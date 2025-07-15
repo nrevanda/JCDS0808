@@ -1,4 +1,6 @@
-Business understanding
+# **Warehouse Inventory Management System**
+## Business understanding
+
   Benefits 
 
 Fetures:
