@@ -24,7 +24,7 @@ This project aims to create a simple and accessible inventory management tool us
 
 ## **Installation**
 1. Download the repository  
-  [Download here!](https://github.com/nrevanda/JCDS0808/tree/main/Capstone_M1)
+  [Download here!](https://github.com/nrevanda/JCDS0808/blob/main/Capstone_M1/JCDS-0808-009_Naufal%20Fajar%20Revanda_CRUD.py)
 2. Ensure Python is installed  
   This project was built using `Python 3.10` or later
 3. Install dependencies  
