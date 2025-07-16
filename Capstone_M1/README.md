@@ -1,4 +1,5 @@
 # **Warehouse Inventory Management System**
+# CRUD Project
 
 ## Business understanding
 Many small to medium-sized warehouses or agribusiness companies still manage their inventory manually using paper or spreadsheets. This often leads to inefficient tracking, lost items, and stock shortages that disrupt operations.
