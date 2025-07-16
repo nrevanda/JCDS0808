@@ -30,6 +30,11 @@ This project aims to create a simple and accessible inventory management tool us
   Only the `tabulate` model is required
 4. Run the program  
 
+## Something special for you!
+I’ve attached my CRUD project presentation video below. feel free to take a sneaky peek if you’re curious :)
+
+[click here!](https://drive.google.com/drive/folders/17WrO29Ttcr1VPaOjJcM4gzXxhzra3bGr?usp=drive_link)
+
 ## Author:
 Naufal Fajar Revanda  
 [LinkedIn](https://www.linkedin.com/in/naufalrevanda/) | [GitHub](https://github.com/nrevanda)
