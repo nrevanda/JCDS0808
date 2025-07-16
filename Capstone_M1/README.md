@@ -3,7 +3,7 @@
 
 ## Business understanding
 Many small to medium-sized warehouses or agribusiness companies still manage their inventory manually using paper or spreadsheets. This often leads to inefficient tracking, lost items, and stock shortages that disrupt operations.
-This project aims to create a simple and accessible inventory management tool using Python. By providing a command-line interface (CLI), warehouse staff can easily monitor inventory, record item movements, and receive low-stock alerts — improving operational efficiency without needing a complex system or internet connection.
+This project aims to create a simple and accessible inventory management tool using Python. By providing a command-line interface (CLI), warehouse staff can easily monitor inventory, record item movements, and receive low-stock alerts whihc obviously improving operational efficiency without needing a complex system.
 
   **Benefits:**
 1. Clear and structured inventory records
