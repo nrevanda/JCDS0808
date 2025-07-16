@@ -1,5 +1,4 @@
-# CRUD Project - JCDS-0808-009
-# **Warehouse Inventory Management System**
+# CRUD Project -- **Warehouse Inventory Management System**
 <br>
 
 ## Business understanding
