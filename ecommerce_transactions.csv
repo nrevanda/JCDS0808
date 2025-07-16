@@ -1,0 +1,101 @@
+transaction_id,customer_id,product,category,quantity,price,purchase_date,payment_method,region
+TRX0001,C001,Wireless Mouse,Accessories,1,150000,2025-01-01,Gopay,East Java
+TRX0002,C002,Bluetooth Keyboard,Accessories,2,300000,2025-01-02,OVO,West Java
+TRX0003,C003,USB-C Cable,Accessories,1,50000,2025-01-03,Credit Card,Central Java
+TRX0004,C004,HDMI Adapter,Accessories,1,75000,2025-01-04,Transfer,Jakarta
+TRX0005,C005,Laptop Stand,Furniture,1,200000,2025-01-05,Gopay,Bali
+TRX0006,C006,Webcam,Gadget,1,350000,2025-01-06,Gopay,East Java
+TRX0007,C007,Portable SSD,Storage,2,800000,2025-01-07,OVO,West Java
+TRX0008,C008,Monitor 24inch,Monitor,1,1600000,2025-01-08,Credit Card,Central Java
+TRX0009,C009,Gaming Chair,Furniture,1,1200000,2025-01-09,Transfer,Jakarta
+TRX0010,C010,Smartphone Holder,Accessories,3,100000,2025-01-10,Gopay,Bali
+TRX0011,C011,Wireless Mouse,Accessories,1,150000,2025-01-11,Gopay,East Java
+TRX0012,C012,Bluetooth Keyboard,Accessories,2,300000,2025-01-12,OVO,West Java
+TRX0013,C013,USB-C Cable,Accessories,1,50000,2025-01-13,Credit Card,Central Java
+TRX0014,C014,HDMI Adapter,Accessories,1,75000,2025-01-14,Transfer,Jakarta
+TRX0015,C015,Laptop Stand,Furniture,1,200000,2025-01-15,Gopay,Bali
+TRX0016,C016,Webcam,Gadget,1,350000,2025-01-16,Gopay,East Java
+TRX0017,C017,Portable SSD,Storage,2,800000,2025-01-17,OVO,West Java
+TRX0018,C018,Monitor 24inch,Monitor,1,1600000,2025-01-18,Credit Card,Central Java
+TRX0019,C019,Gaming Chair,Furniture,1,1200000,2025-01-19,Transfer,Jakarta
+TRX0020,C020,Smartphone Holder,Accessories,3,100000,2025-01-20,Gopay,Bali
+TRX0021,C021,Wireless Mouse,Accessories,1,150000,2025-01-21,Gopay,East Java
+TRX0022,C022,Bluetooth Keyboard,Accessories,2,300000,2025-01-22,OVO,West Java
+TRX0023,C023,USB-C Cable,Accessories,1,50000,2025-01-23,Credit Card,Central Java
+TRX0024,C024,HDMI Adapter,Accessories,1,75000,2025-01-24,Transfer,Jakarta
+TRX0025,C025,Laptop Stand,Furniture,1,200000,2025-01-25,Gopay,Bali
+TRX0026,C026,Webcam,Gadget,1,350000,2025-01-26,Gopay,East Java
+TRX0027,C027,Portable SSD,Storage,2,800000,2025-01-27,OVO,West Java
+TRX0028,C028,Monitor 24inch,Monitor,1,1600000,2025-01-28,Credit Card,Central Java
+TRX0029,C029,Gaming Chair,Furniture,1,1200000,2025-01-29,Transfer,Jakarta
+TRX0030,C030,Smartphone Holder,Accessories,3,100000,2025-01-30,Gopay,Bali
+TRX0031,C031,Wireless Mouse,Accessories,1,150000,2025-01-31,Gopay,East Java
+TRX0032,C032,Bluetooth Keyboard,Accessories,2,300000,2025-02-01,OVO,West Java
+TRX0033,C033,USB-C Cable,Accessories,1,50000,2025-02-02,Credit Card,Central Java
+TRX0034,C034,HDMI Adapter,Accessories,1,75000,2025-02-03,Transfer,Jakarta
+TRX0035,C035,Laptop Stand,Furniture,1,200000,2025-02-04,Gopay,Bali
+TRX0036,C036,Webcam,Gadget,1,350000,2025-02-05,Gopay,East Java
+TRX0037,C037,Portable SSD,Storage,2,800000,2025-02-06,OVO,West Java
+TRX0038,C038,Monitor 24inch,Monitor,1,1600000,2025-02-07,Credit Card,Central Java
+TRX0039,C039,Gaming Chair,Furniture,1,1200000,2025-02-08,Transfer,Jakarta
+TRX0040,C040,Smartphone Holder,Accessories,3,100000,2025-02-09,Gopay,Bali
+TRX0041,C041,Wireless Mouse,Accessories,1,150000,2025-02-10,Gopay,East Java
+TRX0042,C042,Bluetooth Keyboard,Accessories,2,300000,2025-02-11,OVO,West Java
+TRX0043,C043,USB-C Cable,Accessories,1,50000,2025-02-12,Credit Card,Central Java
+TRX0044,C044,HDMI Adapter,Accessories,1,75000,2025-02-13,Transfer,Jakarta
+TRX0045,C045,Laptop Stand,Furniture,1,200000,2025-02-14,Gopay,Bali
+TRX0046,C046,Webcam,Gadget,1,350000,2025-02-15,Gopay,East Java
+TRX0047,C047,Portable SSD,Storage,2,800000,2025-02-16,OVO,West Java
+TRX0048,C048,Monitor 24inch,Monitor,1,1600000,2025-02-17,Credit Card,Central Java
+TRX0049,C049,Gaming Chair,Furniture,1,1200000,2025-02-18,Transfer,Jakarta
+TRX0050,C050,Smartphone Holder,Accessories,3,100000,2025-02-19,Gopay,Bali
+TRX0051,C051,Wireless Mouse,Accessories,1,150000,2025-02-20,Gopay,East Java
+TRX0052,C052,Bluetooth Keyboard,Accessories,2,300000,2025-02-21,OVO,West Java
+TRX0053,C053,USB-C Cable,Accessories,1,50000,2025-02-22,Credit Card,Central Java
+TRX0054,C054,HDMI Adapter,Accessories,1,75000,2025-02-23,Transfer,Jakarta
+TRX0055,C055,Laptop Stand,Furniture,1,200000,2025-02-24,Gopay,Bali
+TRX0056,C056,Webcam,Gadget,1,350000,2025-02-25,Gopay,East Java
+TRX0057,C057,Portable SSD,Storage,2,800000,2025-02-26,OVO,West Java
+TRX0058,C058,Monitor 24inch,Monitor,1,1600000,2025-02-27,Credit Card,Central Java
+TRX0059,C059,Gaming Chair,Furniture,1,1200000,2025-02-28,Transfer,Jakarta
+TRX0060,C060,Smartphone Holder,Accessories,3,100000,2025-03-01,Gopay,Bali
+TRX0061,C061,Wireless Mouse,Accessories,1,150000,2025-03-02,Gopay,East Java
+TRX0062,C062,Bluetooth Keyboard,Accessories,2,300000,2025-03-03,OVO,West Java
+TRX0063,C063,USB-C Cable,Accessories,1,50000,2025-03-04,Credit Card,Central Java
+TRX0064,C064,HDMI Adapter,Accessories,1,75000,2025-03-05,Transfer,Jakarta
+TRX0065,C065,Laptop Stand,Furniture,1,200000,2025-03-06,Gopay,Bali
+TRX0066,C066,Webcam,Gadget,1,350000,2025-03-07,Gopay,East Java
+TRX0067,C067,Portable SSD,Storage,2,800000,2025-03-08,OVO,West Java
+TRX0068,C068,Monitor 24inch,Monitor,1,1600000,2025-03-09,Credit Card,Central Java
+TRX0069,C069,Gaming Chair,Furniture,1,1200000,2025-03-10,Transfer,Jakarta
+TRX0070,C070,Smartphone Holder,Accessories,3,100000,2025-03-11,Gopay,Bali
+TRX0071,C071,Wireless Mouse,Accessories,1,150000,2025-03-12,Gopay,East Java
+TRX0072,C072,Bluetooth Keyboard,Accessories,2,300000,2025-03-13,OVO,West Java
+TRX0073,C073,USB-C Cable,Accessories,1,50000,2025-03-14,Credit Card,Central Java
+TRX0074,C074,HDMI Adapter,Accessories,1,75000,2025-03-15,Transfer,Jakarta
+TRX0075,C075,Laptop Stand,Furniture,1,200000,2025-03-16,Gopay,Bali
+TRX0076,C076,Webcam,Gadget,1,350000,2025-03-17,Gopay,East Java
+TRX0077,C077,Portable SSD,Storage,2,800000,2025-03-18,OVO,West Java
+TRX0078,C078,Monitor 24inch,Monitor,1,1600000,2025-03-19,Credit Card,Central Java
+TRX0079,C079,Gaming Chair,Furniture,1,1200000,2025-03-20,Transfer,Jakarta
+TRX0080,C080,Smartphone Holder,Accessories,3,100000,2025-03-21,Gopay,Bali
+TRX0081,C081,Wireless Mouse,Accessories,1,150000,2025-03-22,Gopay,East Java
+TRX0082,C082,Bluetooth Keyboard,Accessories,2,300000,2025-03-23,OVO,West Java
+TRX0083,C083,USB-C Cable,Accessories,1,50000,2025-03-24,Credit Card,Central Java
+TRX0084,C084,HDMI Adapter,Accessories,1,75000,2025-03-25,Transfer,Jakarta
+TRX0085,C085,Laptop Stand,Furniture,1,200000,2025-03-26,Gopay,Bali
+TRX0086,C086,Webcam,Gadget,1,350000,2025-03-27,Gopay,East Java
+TRX0087,C087,Portable SSD,Storage,2,800000,2025-03-28,OVO,West Java
+TRX0088,C088,Monitor 24inch,Monitor,1,1600000,2025-03-29,Credit Card,Central Java
+TRX0089,C089,Gaming Chair,Furniture,1,1200000,2025-03-30,Transfer,Jakarta
+TRX0090,C090,Smartphone Holder,Accessories,3,100000,2025-03-31,Gopay,Bali
+TRX0091,C091,Wireless Mouse,Accessories,1,150000,2025-04-01,Gopay,East Java
+TRX0092,C092,Bluetooth Keyboard,Accessories,2,300000,2025-04-02,OVO,West Java
+TRX0093,C093,USB-C Cable,Accessories,1,50000,2025-04-03,Credit Card,Central Java
+TRX0094,C094,HDMI Adapter,Accessories,1,75000,2025-04-04,Transfer,Jakarta
+TRX0095,C095,Laptop Stand,Furniture,1,200000,2025-04-05,Gopay,Bali
+TRX0096,C096,Webcam,Gadget,1,350000,2025-04-06,Gopay,East Java
+TRX0097,C097,Portable SSD,Storage,2,800000,2025-04-07,OVO,West Java
+TRX0098,C098,Monitor 24inch,Monitor,1,1600000,2025-04-08,Credit Card,Central Java
+TRX0099,C099,Gaming Chair,Furniture,1,1200000,2025-04-09,Transfer,Jakarta
+TRX0100,C100,Smartphone Holder,Accessories,3,100000,2025-04-10,Gopay,Bali
