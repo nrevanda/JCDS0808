@@ -28,7 +28,7 @@ This project aims to create a simple and accessible inventory management tool us
 2. Ensure Python is installed  
   This project was built using `Python 3.10` or later
 3. Install dependencies  
-  Only the `tabulate` model is required
+  Only the `tabulate` module is required
 4. Run the program  
 
 ## Something special for you!
