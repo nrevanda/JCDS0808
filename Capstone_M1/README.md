@@ -13,7 +13,7 @@ This project aims to create a simple and accessible inventory management tool us
 
   **Features:**
 1. CRUD operations for inventory data (Create, Read, update & delete)
-2. Stock movement history ("IN" and "OUT" records)
+2. Stock movement history (`"IN"` and `"OUT"` records)
 3. Search and filter by item name, category, amount etc.
 4. Sort database by ID, stock, category etc.
 5. Low-stock notifications
@@ -25,7 +25,7 @@ This project aims to create a simple and accessible inventory management tool us
 1. Download the repository  
   [Download here!](https://github.com/nrevanda/JCDS0808/tree/main/Capstone_M1)
 2. Ensure Python is installed  
-  This project was built using Python 3.10 or later
+  This project was built using `Python 3.10` or later
 3. Install dependencies  
   Only the `tabulate` model is required
 4. Run the program  
